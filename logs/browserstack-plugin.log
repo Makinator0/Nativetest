@@ -60,3 +60,99 @@
 12:47:10.564 [ApplicationImpl pooled thread 418] INFO  c.b.l.BrowserStackRunExtension - testng
 12:47:10.564 [ApplicationImpl pooled thread 418] INFO  com.browserstack.utils.Helpers - null
 12:47:10.565 [ApplicationImpl pooled thread 418] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+13:48:06.041 [ApplicationImpl pooled thread 459] INFO  c.b.l.BrowserStackRunExtension - testng
+13:48:06.041 [ApplicationImpl pooled thread 459] INFO  com.browserstack.utils.Helpers - null
+13:48:06.041 [ApplicationImpl pooled thread 459] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:34:32.558 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+14:34:32.562 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+14:36:17.501 [AWT-EventQueue-0] INFO  c.b.launchers.LaunchMavenCommand - Integrate source: testng:intellij:v1.1.4
+14:36:17.501 [AWT-EventQueue-0] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+14:36:17.568 [ApplicationImpl pooled thread 499] INFO  c.b.l.BrowserStackRunExtension - maven
+14:36:17.568 [ApplicationImpl pooled thread 499] INFO  com.browserstack.utils.Helpers - null
+14:36:27.586 [java.exe] INFO  c.b.launchers.LaunchMavenCommand - Completed maven archetype command
+14:37:44.728 [ApplicationImpl pooled thread 487] INFO  c.b.l.BrowserStackRunExtension - maven
+14:37:44.728 [ApplicationImpl pooled thread 487] INFO  com.browserstack.utils.Helpers - true
+14:40:29.282 [ApplicationImpl pooled thread 513] INFO  c.b.l.BrowserStackRunExtension - maven
+14:40:29.282 [ApplicationImpl pooled thread 513] INFO  com.browserstack.utils.Helpers - true
+14:44:45.005 [ApplicationImpl pooled thread 517] INFO  c.b.l.BrowserStackRunExtension - maven
+14:44:45.006 [ApplicationImpl pooled thread 517] INFO  com.browserstack.utils.Helpers - true
+14:45:29.505 [ApplicationImpl pooled thread 527] INFO  c.b.l.BrowserStackRunExtension - maven
+14:45:29.505 [ApplicationImpl pooled thread 527] INFO  com.browserstack.utils.Helpers - true
+15:01:35.540 [ApplicationImpl pooled thread 539] INFO  c.b.l.BrowserStackRunExtension - testng
+15:01:35.540 [ApplicationImpl pooled thread 539] INFO  com.browserstack.utils.Helpers - true
+15:01:35.541 [ApplicationImpl pooled thread 539] INFO  com.browserstack.utils.Helpers - C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:01:35.541 [ApplicationImpl pooled thread 539] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:01:35.541 [ApplicationImpl pooled thread 539] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+15:01:58.181 [ApplicationImpl pooled thread 548] INFO  c.b.l.BrowserStackRunExtension - testng
+15:01:58.181 [ApplicationImpl pooled thread 548] INFO  com.browserstack.utils.Helpers - true
+15:01:58.182 [ApplicationImpl pooled thread 548] INFO  com.browserstack.utils.Helpers - C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:01:58.182 [ApplicationImpl pooled thread 548] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:01:58.182 [ApplicationImpl pooled thread 548] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+15:02:32.591 [ApplicationImpl pooled thread 546] INFO  c.b.l.BrowserStackRunExtension - testng
+15:02:32.591 [ApplicationImpl pooled thread 546] INFO  com.browserstack.utils.Helpers - true
+15:02:32.592 [ApplicationImpl pooled thread 546] INFO  com.browserstack.utils.Helpers - C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:02:32.592 [ApplicationImpl pooled thread 546] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:02:32.592 [ApplicationImpl pooled thread 546] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+15:03:05.782 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+15:03:05.782 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:03:05.782 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+15:03:05.785 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+15:03:05.785 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:03:05.785 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+15:03:06.898 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+15:03:06.898 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/maksi/.m2/repository/com/browserstack/browserstack-java-sdk/1.15.0/browserstack-java-sdk-1.15.0.jar
+15:03:06.898 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+15:03:06.901 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Disabling BrowserStack Run
+15:03:06.902 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - setting browserstack enabled to false
+15:03:09.508 [ApplicationImpl pooled thread 547] INFO  c.b.l.BrowserStackRunExtension - testng
+15:03:09.508 [ApplicationImpl pooled thread 547] INFO  com.browserstack.utils.Helpers - false
+15:43:53.484 [ApplicationImpl pooled thread 565] INFO  c.b.l.BrowserStackRunExtension - testng
+15:43:53.484 [ApplicationImpl pooled thread 565] INFO  com.browserstack.utils.Helpers - false
+15:45:14.786 [ApplicationImpl pooled thread 539] INFO  c.b.l.BrowserStackRunExtension - testng
+15:45:14.786 [ApplicationImpl pooled thread 539] INFO  com.browserstack.utils.Helpers - false
+15:48:15.202 [ApplicationImpl pooled thread 570] INFO  c.b.l.BrowserStackRunExtension - testng
+15:48:15.203 [ApplicationImpl pooled thread 570] INFO  com.browserstack.utils.Helpers - false
+15:56:50.530 [ApplicationImpl pooled thread 583] INFO  c.b.l.BrowserStackRunExtension - testng
+15:56:50.530 [ApplicationImpl pooled thread 583] INFO  com.browserstack.utils.Helpers - false
+15:57:23.981 [ApplicationImpl pooled thread 582] INFO  c.b.l.BrowserStackRunExtension - testng
+15:57:23.981 [ApplicationImpl pooled thread 582] INFO  com.browserstack.utils.Helpers - false
+16:00:00.543 [ApplicationImpl pooled thread 579] INFO  c.b.l.BrowserStackRunExtension - testng
+16:00:00.543 [ApplicationImpl pooled thread 579] INFO  com.browserstack.utils.Helpers - false
+16:01:20.601 [ApplicationImpl pooled thread 580] INFO  c.b.l.BrowserStackRunExtension - testng
+16:01:20.601 [ApplicationImpl pooled thread 580] INFO  com.browserstack.utils.Helpers - false
+16:02:58.238 [ApplicationImpl pooled thread 579] INFO  c.b.l.BrowserStackRunExtension - testng
+16:02:58.238 [ApplicationImpl pooled thread 579] INFO  com.browserstack.utils.Helpers - false
+16:03:59.899 [ApplicationImpl pooled thread 589] INFO  c.b.l.BrowserStackRunExtension - testng
+16:03:59.899 [ApplicationImpl pooled thread 589] INFO  com.browserstack.utils.Helpers - false
+16:04:04.119 [ApplicationImpl pooled thread 574] INFO  c.b.l.BrowserStackRunExtension - testng
+16:04:04.119 [ApplicationImpl pooled thread 574] INFO  com.browserstack.utils.Helpers - false
+16:08:37.202 [ApplicationImpl pooled thread 580] INFO  c.b.l.BrowserStackRunExtension - testng
+16:08:37.202 [ApplicationImpl pooled thread 580] INFO  com.browserstack.utils.Helpers - false
+16:09:02.327 [ApplicationImpl pooled thread 585] INFO  c.b.l.BrowserStackRunExtension - testng
+16:09:02.328 [ApplicationImpl pooled thread 585] INFO  com.browserstack.utils.Helpers - false
+16:10:03.572 [ApplicationImpl pooled thread 591] INFO  c.b.l.BrowserStackRunExtension - testng
+16:10:03.572 [ApplicationImpl pooled thread 591] INFO  com.browserstack.utils.Helpers - false
+16:13:35.910 [ApplicationImpl pooled thread 598] INFO  c.b.l.BrowserStackRunExtension - testng
+16:13:35.910 [ApplicationImpl pooled thread 598] INFO  com.browserstack.utils.Helpers - false
+16:14:09.729 [ApplicationImpl pooled thread 600] INFO  c.b.l.BrowserStackRunExtension - testng
+16:14:09.729 [ApplicationImpl pooled thread 600] INFO  com.browserstack.utils.Helpers - false
+16:14:47.477 [ApplicationImpl pooled thread 601] INFO  c.b.l.BrowserStackRunExtension - testng
+16:14:47.477 [ApplicationImpl pooled thread 601] INFO  com.browserstack.utils.Helpers - false
+16:17:46.356 [ApplicationImpl pooled thread 604] INFO  c.b.l.BrowserStackRunExtension - testng
+16:17:46.356 [ApplicationImpl pooled thread 604] INFO  com.browserstack.utils.Helpers - false
+16:20:25.308 [ApplicationImpl pooled thread 605] INFO  c.b.l.BrowserStackRunExtension - testng
+16:20:25.308 [ApplicationImpl pooled thread 605] INFO  com.browserstack.utils.Helpers - false
+16:21:28.102 [ApplicationImpl pooled thread 598] INFO  c.b.l.BrowserStackRunExtension - testng
+16:21:28.102 [ApplicationImpl pooled thread 598] INFO  com.browserstack.utils.Helpers - false
+16:24:31.718 [ApplicationImpl pooled thread 610] INFO  c.b.l.BrowserStackRunExtension - testng
+16:24:31.719 [ApplicationImpl pooled thread 610] INFO  com.browserstack.utils.Helpers - false
+16:26:15.641 [ApplicationImpl pooled thread 590] INFO  c.b.l.BrowserStackRunExtension - testng
+16:26:15.641 [ApplicationImpl pooled thread 590] INFO  com.browserstack.utils.Helpers - false
+16:33:51.270 [ApplicationImpl pooled thread 608] INFO  c.b.l.BrowserStackRunExtension - testng
+16:33:51.270 [ApplicationImpl pooled thread 608] INFO  com.browserstack.utils.Helpers - false
+16:35:12.995 [ApplicationImpl pooled thread 619] INFO  c.b.l.BrowserStackRunExtension - testng
+16:35:12.995 [ApplicationImpl pooled thread 619] INFO  com.browserstack.utils.Helpers - false
+16:38:48.112 [ApplicationImpl pooled thread 608] INFO  c.b.l.BrowserStackRunExtension - testng
+16:38:48.112 [ApplicationImpl pooled thread 608] INFO  com.browserstack.utils.Helpers - false
+16:39:11.404 [ApplicationImpl pooled thread 624] INFO  c.b.l.BrowserStackRunExtension - testng
+16:39:11.404 [ApplicationImpl pooled thread 624] INFO  com.browserstack.utils.Helpers - false

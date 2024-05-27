@@ -1,0 +1,131 @@
+15:01:36.404 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.21.0
+15:01:36.406 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.2
+15:01:36.588 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:01:36.589 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : E:\Nativetest\browserstack.yml
+15:01:36.651 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:01:36.656 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:01:37.463 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:01:40.581 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:01:47.519 [ForkJoinPool.commonPool-worker-1] INFO  c.b.config.BrowserStackConfig - WARN
+15:01:48.451 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+15:01:48.452 [main] INFO  c.browserstack.utils.LogReportingAPI - 
+[2024-05-27T12:01:48.451355400Z][ OBSERVABILITY ] EXCEPTION IN BUILD START EVENT : com.browserstack.testOps.RequestException: Non 200 response
+	at com.browserstack.testOps.RequestException.non200(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOps(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsString(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsJson(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.launch(Unknown Source)
+	at com.browserstack.testOps.Listener.onStart(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.browserstack.utils.ConditionalInvocationHandler.invoke(Unknown Source)
+	at jdk.proxy2/jdk.proxy2.$Proxy2.onStart(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+
+15:01:48.452 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:01:50.383 [SIGINT handler] INFO  c.b.utils.ExitSignalHandler - Shutdown triggered by: INT 2
+15:01:53.387 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: You provided an invalid key.
+15:01:53.387 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed You provided an invalid key.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.a(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.d(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+15:01:58.682 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.21.0
+15:01:58.685 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.2
+15:01:58.871 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:01:58.873 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : E:\Nativetest\browserstack.yml
+15:01:58.917 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:01:58.923 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:01:59.232 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:02:02.003 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:02:03.028 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+15:02:03.029 [main] INFO  c.browserstack.utils.LogReportingAPI - 
+[2024-05-27T12:02:03.028179700Z][ OBSERVABILITY ] EXCEPTION IN BUILD START EVENT : com.browserstack.testOps.RequestException: Non 200 response
+	at com.browserstack.testOps.RequestException.non200(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOps(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsString(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsJson(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.launch(Unknown Source)
+	at com.browserstack.testOps.Listener.onStart(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.browserstack.utils.ConditionalInvocationHandler.invoke(Unknown Source)
+	at jdk.proxy2/jdk.proxy2.$Proxy2.onStart(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+
+15:02:03.029 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:02:07.103 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: You provided an invalid key.
+15:02:07.103 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed You provided an invalid key.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.a(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.d(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+15:02:33.069 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.21.0
+15:02:33.072 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.2.2
+15:02:33.270 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:02:33.272 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : E:\Nativetest\browserstack.yml
+15:02:33.319 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:02:33.325 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+15:02:33.661 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:02:36.519 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:02:37.514 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+15:02:37.515 [main] INFO  c.browserstack.utils.LogReportingAPI - 
+[2024-05-27T12:02:37.514391300Z][ OBSERVABILITY ] EXCEPTION IN BUILD START EVENT : com.browserstack.testOps.RequestException: Non 200 response
+	at com.browserstack.testOps.RequestException.non200(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOps(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsString(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsJson(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.launch(Unknown Source)
+	at com.browserstack.testOps.Listener.onStart(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.browserstack.utils.ConditionalInvocationHandler.invoke(Unknown Source)
+	at jdk.proxy2/jdk.proxy2.$Proxy2.onStart(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+
+15:02:37.515 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:02:41.673 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: You provided an invalid key.
+15:02:41.674 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Initialization of BrowserStack Local failed You provided an invalid key.
+	at com.browserstack.LocalFactory.<init>(Unknown Source)
+	at com.browserstack.LocalFactory.a(Unknown Source)
+	at com.browserstack.LocalFactory.createInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.d(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
